@@ -1,0 +1,17 @@
+Index: src/com/company/Main.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package com.company;\r\n\r\npublic class Main {\r\n\r\n    public static void main(String[] args) {\r\n\t    int a = 100;\r\n<<<<<<< Updated upstream\r\n        int b=0;\r\n\t    int c = a+b;\r\n\t    // фвапфвапфвапфвапфвапфвyes\r\n        //hi \r\n=======\r\n        //da\r\n        int b = 100;\r\n\t    int c = a+b;\r\n\t    // фвапфвапфвапфвапфвапфвап\r\n        //hi\r\n>>>>>>> Stashed changes\r\n    }\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/com/company/Main.java	(revision 1858a473a417a83b00f35f17f2909cb8c2938878)
++++ src/com/company/Main.java	(date 1602089551980)
+@@ -15,6 +15,7 @@
+ 	    int c = a+b;
+ 	    // фвапфвапфвапфвапфвапфвап
+         //hi
++        //ghbdtn
+ >>>>>>> Stashed changes
+     }
+ }
