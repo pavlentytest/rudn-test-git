@@ -6,5 +6,6 @@ public class Main {
 	    int a = 100;
 	    int c = a+b;
 	    // фвапфвапфвапфвапфвапфвап
+        //no
     }
 }
