@@ -4,17 +4,20 @@ public class Main {
 
     public static void main(String[] args) {
 	    int a = 100;
-<<<<<<< Updated upstream
         int b=0;
 	    int c = a+b;
 	    // фвапфвапфвапфвапфвапфвyes
-        //hi 
+        //hi
 =======
         //da
         int b = 100;
 	    int c = a+b;
 	    // фвапфвапфвапфвапфвапфвап
         //hi
+        //jsdvnjsdhvhhsvjhsdjvjisbvjibsjivbsjibvjisbfvbsfijvbsfjivbsjfvbsjifvbijwhrfwuefhowehosndjvbwrhowvjefvu
+
+	    int f = 777;
+	    a = a + f;
 >>>>>>> Stashed changes
     }
 }
